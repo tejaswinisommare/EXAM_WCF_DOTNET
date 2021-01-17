@@ -1,0 +1,7 @@
+D:\DotNetPractice\WCF\WCFConsole\ConsoleAppClient\bin\Debug\ConsoleAppClient.exe.config
+D:\DotNetPractice\WCF\WCFConsole\ConsoleAppClient\bin\Debug\ConsoleAppClient.exe
+D:\DotNetPractice\WCF\WCFConsole\ConsoleAppClient\bin\Debug\ConsoleAppClient.pdb
+D:\DotNetPractice\WCF\WCFConsole\ConsoleAppClient\obj\Debug\ConsoleAppClient.csprojAssemblyReference.cache
+D:\DotNetPractice\WCF\WCFConsole\ConsoleAppClient\obj\Debug\ConsoleAppClient.csproj.CoreCompileInputs.cache
+D:\DotNetPractice\WCF\WCFConsole\ConsoleAppClient\obj\Debug\ConsoleAppClient.exe
+D:\DotNetPractice\WCF\WCFConsole\ConsoleAppClient\obj\Debug\ConsoleAppClient.pdb

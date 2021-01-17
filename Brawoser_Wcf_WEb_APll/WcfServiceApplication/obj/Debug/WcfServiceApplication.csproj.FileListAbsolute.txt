@@ -1,0 +1,7 @@
+D:\.NET MODULE\ASP .NET\WcfServiceApplication\obj\Debug\WcfServiceApplication.csprojAssemblyReference.cache
+D:\.NET MODULE\ASP .NET\WcfServiceApplication\obj\Debug\WcfServiceApplication.csproj.CoreCompileInputs.cache
+D:\.NET MODULE\ASP .NET\WcfServiceApplication\bin\WcfServiceApplication.dll.config
+D:\.NET MODULE\ASP .NET\WcfServiceApplication\bin\WcfServiceApplication.dll
+D:\.NET MODULE\ASP .NET\WcfServiceApplication\bin\WcfServiceApplication.pdb
+D:\.NET MODULE\ASP .NET\WcfServiceApplication\obj\Debug\WcfServiceApplication.dll
+D:\.NET MODULE\ASP .NET\WcfServiceApplication\obj\Debug\WcfServiceApplication.pdb

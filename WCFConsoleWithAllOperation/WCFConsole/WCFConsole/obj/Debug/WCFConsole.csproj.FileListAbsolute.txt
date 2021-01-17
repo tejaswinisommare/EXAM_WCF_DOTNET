@@ -1,0 +1,7 @@
+D:\DotNetPractice\WCF\WCFConsole\WCFConsole\bin\Debug\WCFConsole.exe.config
+D:\DotNetPractice\WCF\WCFConsole\WCFConsole\bin\Debug\WCFConsole.exe
+D:\DotNetPractice\WCF\WCFConsole\WCFConsole\bin\Debug\WCFConsole.pdb
+D:\DotNetPractice\WCF\WCFConsole\WCFConsole\obj\Debug\WCFConsole.csprojAssemblyReference.cache
+D:\DotNetPractice\WCF\WCFConsole\WCFConsole\obj\Debug\WCFConsole.csproj.CoreCompileInputs.cache
+D:\DotNetPractice\WCF\WCFConsole\WCFConsole\obj\Debug\WCFConsole.exe
+D:\DotNetPractice\WCF\WCFConsole\WCFConsole\obj\Debug\WCFConsole.pdb
